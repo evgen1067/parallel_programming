@@ -1,0 +1,14 @@
+<Order Number="1-262-69966" DispatchNumber="1488835902">
+    <Status Date="2023-11-20T12:41:27+00:00" Code="12" Description="Принят на склад до востребования" CityCode="44"
+            CityName="Москва"/>
+    <Reason Date="" Code="" Description=""/>
+    <DelayReason Date="" Code="" Description=""/>
+    <Call>
+        <CallGood>
+            <Good Date="2023-11-19T16:49:38+00:00" DateDeliv="2023-11-21"/>
+            <Good Date="2023-11-20T12:37:17+00:00" DateDeliv="2023-12-09"/>
+            <Good Date="2023-11-20T12:41:10+00:00" DateDeliv="2023-12-09"/>
+            <Good Date="2023-11-20T12:41:27+00:00" DateDeliv="2023-12-09"/>
+        </CallGood>
+    </Call>
+</Order>
